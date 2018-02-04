@@ -11,10 +11,10 @@
     font-family: 'Satisfy', cursive;
   }
   h5{
-    font-family: 'Cinzel', serif;
+    font-family: 'Lusitana', serif;
   }
   h6{
-    font-family: 'Cinzel', serif;
+    font-family: 'Lusitana', serif;
   }
   .brand-logo{
     font-family: 'Cinzel', serif;
