@@ -13,7 +13,9 @@
 
 Route::group(['middlewareGroups' => ['web']], function () {
   Route::get('/','HomeController@getIndex');
+  Route::get('/archive','HomeController@getArchive');
+  Route::get('/join','HomeController@getJoin');
+  Route::get('/contact','HomeController@getContact');
   Route::get('/log','HomeController@getLog');
-  Route::get('/Sign','HomeController@getSign');
   Route::resource("docs","DocsController");
 });
