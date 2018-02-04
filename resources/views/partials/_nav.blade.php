@@ -9,6 +9,7 @@
         <li><a href="/log"><i class="material-icons left">person</i>Log In</a></li>
       </ul>
       <ul class="side-nav white" id="mobile-demo">
+        <li class="mobile-logo"><a href="/" class="purple darken-1 white-text center">Lasseq ®</a></li>
         <li><a href="/archive"><i class="material-icons left">storage</i>Archive</a></li>
         <li><a href="/join"><i class="material-icons left">group_add</i>Rejoinez-Nous</a></li>
         <li><a href="/contact"><i class="material-icons left">forum</i>Contactez-Nous</a></li>

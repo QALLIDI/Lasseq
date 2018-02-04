@@ -19,4 +19,9 @@
   .brand-logo{
     font-family: 'Cinzel', serif;
   }
+  .mobile-logo{
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    color: #fafafa;
+  }
   </style>
