@@ -1,6 +1,6 @@
 <nav class="nav-extended">
-    <div class="nav-wrapper purple darken-1">
-      <a href="/" class="brand-logo"><i class="material-icons right">local_library</i></a>
+    <div class="nav-wrapper purple darken-1 z-depth-4">
+      <a href="/" class="brand-logo"><i class="material-icons"></i>Lasseq ®</a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="/archive"><i class="material-icons left">storage</i>Archive</a></li>
