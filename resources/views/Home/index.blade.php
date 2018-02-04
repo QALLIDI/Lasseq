@@ -10,7 +10,7 @@
       <div class="slider">
    <ul class="slides">
      <li>
-       <img src="https://lorempixel.com/580/250/nature/1"> <!-- random image -->
+       <img src="/images/slide1.jpg"> <!-- random image -->
        <div class="caption center-align">
          <h3>This is our big Tagline!</h3>
          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
@@ -44,7 +44,7 @@
 
     </div>
     <div class="col s6">
-      
+
     </div>
   </div>
 </div>
