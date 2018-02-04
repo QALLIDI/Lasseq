@@ -10,7 +10,13 @@
   h4{
     font-family: 'Satisfy', cursive;
   }
+  h5{
+    font-family: 'Cinzel', serif;
+  }
+  h6{
+    font-family: 'Cinzel', serif;
+  }
   .brand-logo{
-    font-family: 'Satisfy', cursive;
+    font-family: 'Cinzel', serif;
   }
   </style>

@@ -13,11 +13,11 @@
                 </div>
               </div>
               <div class="col l3 offset-l s12">
-                <h5 class="white-text">Contactez-Nous</h5>
+                <h6 class="white-text">Contactez-Nous</h6>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Gmail</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Facebook</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Linkedin</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!"><img src="ressources/images/gmail.jpg" > Gmail</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!"><img src="ressources/images/facebook.jpg" > Facebook</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!"><img src="ressources/images/linkedin.jpg" > Linkedin</a></li>
                 </ul>
               </div>
             </div>
