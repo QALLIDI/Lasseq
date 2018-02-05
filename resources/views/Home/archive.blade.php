@@ -6,7 +6,7 @@
 <br>
     <div class="row">
     <div class="col s4">
-      <div class="card-panel deep-purple lighten-1">
+      <div class="card-panel deep-purple">
          <h4 class="header white-text center">1er Année</h4>
           <span class="white-text">
             Cliquer pour voir Tout les Documents des Matières du 1er Année.
@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="col s4">
-      <div class="card-panel  deep-purple lighten-1">
+      <div class="card-panel  deep-purple">
          <h4 class="header white-text center">2ème Année</h4>
           <span class="white-text">
               Cliquer pour voir Tout les Documents des Matières du 2ème Année.
@@ -26,7 +26,7 @@
       </div>
     </div>
     <div class="col s4">
-      <div class="card-panel  deep-purple lighten-1">
+      <div class="card-panel  deep-purple">
          <h4 class="header white-text center">3ème Année</h4>
           <span class="white-text">
               Cliquer pour voir Tout les Documents des Matières du 3ème Année.

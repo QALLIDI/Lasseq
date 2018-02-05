@@ -4,4 +4,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
   <script>
    $(".button-collapse").sideNav();
-  </script>
+
+   $(document).ready(function(){
+     $('.slider').slider();
+   });
+   </script>
