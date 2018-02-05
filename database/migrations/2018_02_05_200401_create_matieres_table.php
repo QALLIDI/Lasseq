@@ -14,8 +14,10 @@ class CreateMatieresTable extends Migration
     public function up()
     {
         Schema::create('matieres', function (Blueprint $table) {
+            $tabel->engine = 'innoDB';
             $table->increments('id');
-            $table->timestamps();
+            $table->string('matiere');
+            $table->enum('annee',['1','2','3']);
         });
     }
 
