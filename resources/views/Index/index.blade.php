@@ -4,7 +4,6 @@
 @section('content')
   <div class="row">
     <div class="col s12">
-      <br><br>
       <div class="slider">
    <ul class="slides">
      <li>
